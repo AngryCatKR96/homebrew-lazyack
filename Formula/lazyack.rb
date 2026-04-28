@@ -1,8 +1,8 @@
 class Lazyack < Formula
   desc "Global hotkey to approve AI coding agent prompts via cmux"
   homepage "https://github.com/AngryCatKR96/lazyack"
-  url "https://github.com/AngryCatKR96/lazyack/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "a3220a4b67bef223ce7760acaa4dd394aebbd4d155932203fa64d81773910194"
+  url "https://github.com/AngryCatKR96/lazyack/archive/refs/tags/v0.1.1.tar.gz"
+  sha256 "51268e8faaca3c9a02d6e11a37dece3d1f7623f1b9ee5f5d26ad066f8c517f6f"
   license "MIT"
   head "https://github.com/AngryCatKR96/lazyack.git", branch: "main"
 
